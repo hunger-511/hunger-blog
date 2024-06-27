@@ -1,0 +1,25 @@
+{
+   "launguage": "zh-cn",
+    "title": "Hunger Blog",
+
+
+    "menus": {
+       "main": [
+          {
+             "name": "Home",
+             "pageRef": "/",
+             "weight": 10
+          },
+          {
+             "name": "收藏",
+             "pageRef": "/collect",
+             "weight": 20
+          },
+          {
+             "name": "技术",
+             "pageRef": "/technology",
+             "weight": 30
+          }
+       ]
+    }
+ }
