@@ -1,3 +1,3 @@
 ---
-title: "Node.JS 学习记录"
+title: "Node.js"
 ---
