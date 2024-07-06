@@ -9,7 +9,7 @@ toc = true
 
 [小时读书](https://timedown.cn/)：自称：“*一个推荐优质好书的平台*”，知名度较高的书比较好找.
 
-[sobooks]( https://sobooks.cc/)：书很全，分类做的也很好，很清爽
+[sobooks]( https://sobooks.cc/)：书很全，分类做的也很好，很清爽.
 
 [旭仔](https://www.xuzai.com/category/books)：一个博客里有一个书籍模块，基本都是以合集的形式，相对较少
 
