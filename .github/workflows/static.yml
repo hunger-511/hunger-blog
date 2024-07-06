@@ -22,7 +22,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "hugo_extended_0.120.0_windows-amd64"
+          hugo-version: "0.120.0_windows-amd64"
+          extended: true
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
