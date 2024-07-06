@@ -9,7 +9,7 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: windows-latest
+    runs-on: unbuntu-22.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
