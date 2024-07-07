@@ -30,6 +30,13 @@ pageRef = "/storeroom"
  pageRef = "/technology/nodejs"
  weight = 20
 
+  [[main]]
+ name = "探索"
+ pre = "explore"
+ parent = "技术"
+ pageRef = "/technology/explore"
+ weight = 30
+
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
